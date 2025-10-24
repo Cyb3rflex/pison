@@ -13,7 +13,7 @@
 ![Vercel](https://img.shields.io/badge/Hosting-Vercel-black)
 
 
-### [🌐 Live Link to Pinson Itech LTD](https:)
+### [🌐 Live Link to Pinson Itech LTD](https://pison.vercel.app)
 
 Welcome to **Pison ITech**! Pison Itech is a customer self-service shopping app created to streamline the supermarket shopping experience. Built with **React** and **Firebase**, Pison empowers customers to shop from a categorized list of products, add items to a virtual cart, and generate a unique QR code upon checkout, allowing cashiers to verify and complete the order quickly at the counter.
 
@@ -65,11 +65,11 @@ Welcome to **Pison ITech**! Pison Itech is a customer self-service shopping app 
 
 ## Installation
 
-To run TroveMart locally, follow these steps:
+To run PisonITech locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/pison.git
+   git clone https://github.com/Cyb3rflex/pison.git
    cd pison
    ```
 
